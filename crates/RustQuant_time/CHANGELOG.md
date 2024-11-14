@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.2](https://github.com/andyguenin/RustQuant/compare/RustQuant_time-v0.3.1...RustQuant_time-v0.3.2) - 2024-11-14
+
+### Other
+
+- Fix Singapore calendar docs (remove Hong-Kong reference)
+
 ## [0.3.1](https://github.com/avhz/RustQuant/compare/RustQuant_time-v0.3.0...RustQuant_time-v0.3.1) - 2024-11-10
 
 ### Other
